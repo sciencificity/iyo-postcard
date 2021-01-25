@@ -1,0 +1,16 @@
+---
+title: "Hello! `r emo::ji('wave')`"
+image: "image2.jpeg"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
+links:
+  - label: Twitter
+    url: "https://twitter.com/Sciencificity"
+  - label: Email
+    url: "sciencificity@gmail.com"
+output:
+  postcards::onofre
+---
+ 
+
